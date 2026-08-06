@@ -168,7 +168,7 @@
 <td align="center">
 
 𓆩♡𓆪　
-<a href="#">main acc</a>　
+<a href="https://github.com/P1NKPO1SON">main acc</a>　
 <a href="#">extended</a>　
 (｡•́︿•̀｡)
 
