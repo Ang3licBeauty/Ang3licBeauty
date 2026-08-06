@@ -19,21 +19,19 @@
 <!-- IMAGE LEFT / PROFILE TEXT RIGHT                          -->
 <!-- ========================================================= -->
 
-<table width="100%">
+<table style="width:100px;">
 <tr>
 
 <!-- LEFT SIDE: LARGE TOP IMAGE -->
 
-<td width="70%" valign="top" align="left">
+<td width="50%" valign="top" align="left">
 
 <br>
 
-<img width="650" height="500" alt="1000239563" src="https://github.com/user-attachments/assets/cf54e8c3-ff20-4b0d-9a02-d1d37a10488a" />
+<img width="512" height="512" alt="1000240550" src="https://github.com/user-attachments/assets/30c0b24d-ea8f-4d88-8aa8-824099cd5786" />
 
 
->
 
-</td>
 
 <!-- RIGHT SIDE: PROFILE INFORMATION -->
 
@@ -78,7 +76,8 @@
 
 <td align="left">
 
-<img width="1340" height="202" alt="1000239582" src="https://github.com/user-attachments/assets/5518e4b5-7dec-46b7-94dc-4adc75f9252d" />
+<img width="800" height="202" alt="1000240551" src="https://github.com/user-attachments/assets/90b8fc01-18d9-43a5-a7d0-0cb23645c6a2" />
+
 
 
 
@@ -146,7 +145,8 @@
 
 <td width="55%" valign="top" align="center">
 
-<img width="650" height="700" alt="1000239400" src="https://github.com/user-attachments/assets/f2b16887-0ac0-4828-9242-ec5c365f562a" />
+<img width="650" height="700" alt="1000240546" src="https://github.com/user-attachments/assets/922780ce-cae1-4de1-a8ba-f768cdd67cf9" />
+
 
 
 
@@ -185,4 +185,5 @@
 
 </div>
 
-<img width="2000" height="2000" alt="1000239395" src="https://github.com/user-attachments/assets/ec00f260-1920-4926-83e5-8b3ebf9c7679" />
+<img width="800" height="800" alt="1000240544" src="https://github.com/user-attachments/assets/76c5cadf-5b18-4efc-b6e0-90ef8d2d32cc" />
+
