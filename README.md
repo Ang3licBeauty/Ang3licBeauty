@@ -1,4 +1,5 @@
-<img width="1000" height="400" alt="1000240589" src="https://github.com/user-attachments/assets/752db858-4605-4903-9725-5ae86e7a12fb" />
+<img width="1000" height="400" alt="1000240608" src="https://github.com/user-attachments/assets/1e31912d-d355-4aa3-b7b3-526ce5292b58" />
+
 
 
 
@@ -90,4 +91,5 @@ $${\color{#E8BFA1}DNI}\qquad
 
 <img width="1000" height="800" alt="1000240544" src="https://github.com/user-attachments/assets/76c5cadf-5b18-4efc-b6e0-90ef8d2d32cc" />
 
-<img width="1000" height="400" alt="1000240588" src="https://github.com/user-attachments/assets/ae9aab23-c3d1-4d72-bee9-dd303377f9b7" />
+<img width="1000" height="400" alt="1000240609" src="https://github.com/user-attachments/assets/6b20a9ac-f0b5-4a06-b1a9-d509ea5502f6" />
+
