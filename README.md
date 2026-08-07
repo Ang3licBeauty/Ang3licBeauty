@@ -13,28 +13,10 @@
 
 
 <!-- ========================================================= -->
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;"><sup>𓎟𓎟𓎟</sup></span>　<span style="color:#F6CFAE;"><b>𝓐𝓁i𝓬e</b></span>　ㅤㅤ<span style="color:#89AFC0;">𝐬𝓱𝑒 ‎ꫂ᭪݁</span> ㅤㅤ<span style="color:#E8BFA1;">𝓐𝓝𝓰ℯ𝓁</span>
+$${\color{#6C9AB2}𓎟𓎟𓎟}$$
+$${\color{#F6CFAE}\textbf{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝓐𝓁i𝓬e}}$$ $${\color{#E8BFA1}\text{𝓐𝓝𝓰ℯ𝓁ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ}}$$ $${\color{#E8BFA1}\underline{\text{𝟐𝟏}}}$$ $${\color{#89AFC0}𓈒 \space ຼ \space ͜ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𓐇˚ִִ𓈒꒱꒱}$$ $${\color{#F6CFAE}\underline{\text{𝓼𝒾𝓷𝓼𝓽𝓮𝓻}}}$$ 
 
-
-ㅤㅤㅤ<span style="color:#E8BFA1;"><u>𝟐𝟏</u></span>ㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐</span>
-
-
-ㅤㅤㅤ<span style="color:#89AFC0;">𓈒 ຼ ͜𓐇˚ִִ𓈒꒱꒱</span>ㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#F6CFAE;"><u>**𝓼𝒾𝓷𝓼𝓽𝓮𝓻**</u></span>
-
-<br>
-
-ㅤㅤㅤ<span style="color:#F6CFAE;">𓊆ྀི❤︎𓊇ྀི</span>ㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">ـــ</span> <span style="color:#89AFC0;">✚</span>ㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">⏔⏔⏔</span> <span style="color:#F6CFAE;">꒰ ᧔ෆ᧓ ꒱</span> <span style="color:#89AFC0;">⏔⏔⏔</span>
-ㅤㅤㅤㅤ<span style="color:#6C9AB2;">ــــــــــ</span><span style="color:#F6CFAE;">ﮩ٨</span>
-
-<br><br>
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">ㅤㅤ𓊆</span>ㅤㅤ<span style="color:#F6CFAE;">𝓢𝓱𝔂</span>ㅤ<span style="color:#89AFC0;">˚₊· ͟͟͞͞➳❥</span>ㅤㅤ<span style="color:#E8BFA1;">𝒟ℴ𝓋ℯ</span>                                             -->
-<!-- TEXT LEFT / IMAGE RIGHT                                   -->
-<!-- ========================================================= -->
-
-<br><br>
+$${\color{#F6CFAE}𓊆ྀི❤︎𓊇ྀི}$$ 
 
 <table width="100%">
 <tr>
@@ -100,4 +82,3 @@
 <img width="1000" height="800" alt="1000240544" src="https://github.com/user-attachments/assets/76c5cadf-5b18-4efc-b6e0-90ef8d2d32cc" />
 
 <img width="1000" height="400" alt="1000240588" src="https://github.com/user-attachments/assets/ae9aab23-c3d1-4d72-bee9-dd303377f9b7" />
-
