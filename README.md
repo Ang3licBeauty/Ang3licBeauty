@@ -13,7 +13,24 @@
 
 
 <!-- ========================================================= -->
-<!-- SECOND SECTION                                            -->
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;"><sup>𓎟𓎟𓎟</sup></span>　<span style="color:#F6CFAE;"><b>𝓐𝓁i𝓬e</b></span>　ㅤㅤ<span style="color:#89AFC0;">𝐬𝓱𝑒 ‎ꫂ᭪݁</span> ㅤㅤ<span style="color:#E8BFA1;">𝓐𝓝𝓰ℯ𝓁</span>
+
+
+ㅤㅤㅤ<span style="color:#E8BFA1;"><u>𝟐𝟏</u></span>ㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐</span>
+
+
+ㅤㅤㅤ<span style="color:#89AFC0;">𓈒 ຼ ͜𓐇˚ִִ𓈒꒱꒱</span>ㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#F6CFAE;"><u>**𝓼𝒾𝓷𝓼𝓽𝓮𝓻**</u></span>
+
+<br>
+
+ㅤㅤㅤ<span style="color:#F6CFAE;">𓊆ྀི❤︎𓊇ྀི</span>ㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">ـــ</span> <span style="color:#89AFC0;">✚</span>ㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">⏔⏔⏔</span> <span style="color:#F6CFAE;">꒰ ᧔ෆ᧓ ꒱</span> <span style="color:#89AFC0;">⏔⏔⏔</span>
+ㅤㅤㅤㅤ<span style="color:#6C9AB2;">ــــــــــ</span><span style="color:#F6CFAE;">ﮩ٨</span>
+
+<br><br>
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">ㅤㅤ𓊆</span>ㅤㅤ<span style="color:#F6CFAE;">𝓢𝓱𝔂</span>ㅤ<span style="color:#89AFC0;">˚₊· ͟͟͞͞➳❥</span>ㅤㅤ<span style="color:#E8BFA1;">𝒟ℴ𝓋ℯ</span>                                             -->
 <!-- TEXT LEFT / IMAGE RIGHT                                   -->
 <!-- ========================================================= -->
 
