@@ -46,14 +46,12 @@ $${\color{#89AFC0}🫧}\qquad
 
 <br><br>
 
-$${\color{#6C9AB2}〰️}\qquad
-{\color{#F6CFAE}\text{ATAbook}}\qquad
-{\color{#89AFC0}𝄞⨾𓍢ִ໋}\qquad
-{\color{#6C9AB2}\textit{fav}}\qquad
-{\color{#F6CFAE}\text{Chap :}}\qquad
-{\color{#89AFC0}\textbf{Rise}}\qquad
-{\color{#E8BFA1}\text{and}}\qquad
-{\color{#6C9AB2}\textbf{Fall}}$$
+$${\color{#89AFC0}𝄞⨾𓍢ִ໋}\qquad
+{\color{#6C9AB2}fav}\qquad
+{\color{#F6CFAE}Chap :}\qquad
+{\color{#89AFC0}Rise}\qquad
+{\color{#E8BFA1}and}\qquad
+{\color{#6C9AB2}Fall}$$
 
 [ATAbook](https://p1nkpo1son.atabook.org/)
 
@@ -71,8 +69,7 @@ $${\color{#E8BFA1}\textbf{DNI}}\qquad
 {\color{#89AFC0}\text{Bendy}}\qquad
 {\color{#F6CFAE}\text{X}}\qquad
 {\color{#6C9AB2}\text{sammy}}\qquad
-{\color{#E8BFA1}\text{Basic}}\qquad
-{\color{#F6CFAE}\textbf{DNI}}$$
+{\color{#E8BFA1}\text{Basic}}\qquad {\color{#F6CFAE}\textbf{DNI}}$$
 
 
 <!-- RIGHT: SECOND IMAGE -->
