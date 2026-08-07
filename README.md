@@ -25,9 +25,9 @@ $${\color{#6C9AB2}𓊆ྀི❤︎𓊇ྀི}$$
 
 <td width="45%" valign="top" align="left">
 <br>
-$${\color{#6C9AB2}\text{𝒴𝓊𝓂ℯ𝓈𝒽𝒾𝓅𝓅ℯ𝓇ㅤㅤㅤㅤㅤㅤㅤㅤ}}$$
-$${\color{#F6CFAE}\text{𝓼𝒾𝓷𝓰𝓮𝓻ㅤㅤㅤㅤㅤㅤㅤㅤ}}$$
-$${\color{#89AFC0}\text{𝓐𝓻𝓽𝒾𝓼𝓽ㅤㅤㅤㅤㅤㅤㅤㅤ}}$$
+$${\color{#6C9AB2}\text{𝒴𝓊𝓂ℯ𝓈𝒽𝒾𝓅𝓅ℯ𝓇ㅤㅤㅤ}}$$
+$${\color{#F6CFAE}\text{𝓼𝒾𝓷𝓰𝓮𝓻ㅤㅤㅤㅤㅤ}}$$
+$${\color{#89AFC0}\text{𝓐𝓻𝓽𝒾𝓼𝓽ㅤㅤㅤㅤㅤ}}$$
 
 <br><br>
 
