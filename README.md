@@ -16,7 +16,7 @@
 $${\color{#6C9AB2}𓎟𓎟𓎟}$$
 $${\color{#F6CFAE}\textbf{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝓐𝓁i𝓬e}}$$ $${\color{#E8BFA1}\text{𝓐𝓝𝓰ℯ𝓁ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ}}$$ $${\color{#E8BFA1}\underline{\text{𝟐𝟏}}}$$ $${\color{#89AFC0}𓈒 \space ຼ \space ͜ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𓐇˚ִִ𓈒꒱꒱}$$ $${\color{#F6CFAE}\underline{\text{𝓼𝒾𝓷𝓼𝓽𝓮𝓻}}}$$ 
 
-$${\color{#F6CFAE}𓊆ྀི❤︎𓊇ྀི}$$ 
+$${\color{#6C9AB2}𓊆ྀི❤︎𓊇ྀི}$$ 
 
 <table width="100%">
 <tr>
