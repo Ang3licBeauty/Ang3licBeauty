@@ -1,35 +1,5 @@
+<img width="1000" height="400" alt="1000240589" src="https://github.com/user-attachments/assets/752db858-4605-4903-9725-5ae86e7a12fb" />
 
-
-
-
-
-<!-- RIGHT SIDE: PROFILE INFORMATION -->
-
-<td width="30%" valign="top" align="left">
-
-<br><br><br>
-
-
-
-<br><br>
-</td>
-
-</tr>
-</table>
-
-
-<!-- ========================================================= -->
-<!-- SMALL DECORATION ROW                                      -->
-<!-- ========================================================= -->
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td align="left">
-
-<img width="1000" height="202" alt="1000240551" src="https://github.com/user-attachments/assets/90b8fc01-18d9-43a5-a7d0-0cb23645c6a2" />
 
 
 
@@ -98,7 +68,8 @@
 
 <td width="55%" valign="top" align="center">
 
-<img width="650" height="900" alt="1000240546" src="https://github.com/user-attachments/assets/922780ce-cae1-4de1-a8ba-f768cdd67cf9" />
+<img width="650" height="1000" alt="1000240590" src="https://github.com/user-attachments/assets/57a5b7bc-08c2-4ccd-8b76-74ff19e4a5fc" />
+
 
 
 
