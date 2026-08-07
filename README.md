@@ -91,5 +91,5 @@ $${\color{#E8BFA1}DNI}\qquad
 
 <img width="1000" height="800" alt="1000240544" src="https://github.com/user-attachments/assets/76c5cadf-5b18-4efc-b6e0-90ef8d2d32cc" />
 
-<img width="1000" height="400" alt="1000240609" src="https://github.com/user-attachments/assets/6b20a9ac-f0b5-4a06-b1a9-d509ea5502f6" />
+<img width="1000" height="400" alt="1000240609" src="https://github.com/user-attachments/assets/b3050b5f-c4d3-4583-9b89-d14cdc714fbd" />
 
