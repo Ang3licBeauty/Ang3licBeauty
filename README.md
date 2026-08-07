@@ -85,7 +85,7 @@
 
 <td width="55%" valign="top" align="center">
 
-<img width="650" height="1000" alt="1000240590" src="https://github.com/user-attachments/assets/57a5b7bc-08c2-4ccd-8b76-74ff19e4a5fc" />
+<img width="650" height="1200" alt="1000240590" src="https://github.com/user-attachments/assets/57a5b7bc-08c2-4ccd-8b76-74ff19e4a5fc" />
 
 
 
@@ -97,34 +97,8 @@
 </table>
 
 
-<!-- ========================================================= -->
-<!-- BOTTOM LINKS                                              -->
-<!-- ========================================================= -->
+<img width="1000" height="800" alt="1000240544" src="https://github.com/user-attachments/assets/76c5cadf-5b18-4efc-b6e0-90ef8d2d32cc" />
 
-<br><br>
+<img width="1000" height="400" alt="1000240588" src="https://github.com/user-attachments/assets/ae9aab23-c3d1-4d72-bee9-dd303377f9b7" />
 
-<table width="100%">
-<tr>
-
-<td align="center">
-
-𓆩♡𓆪　
-       <a href="https://github.com/P1NKPO1SON">main acc</a>　
-       <a href="#">extended</a>　
-(｡•́︿•̀｡)
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img width="800" height="800" alt="1000240544" src="https://github.com/user-attachments/assets/76c5cadf-5b18-4efc-b6e0-90ef8d2d32cc" />
 
