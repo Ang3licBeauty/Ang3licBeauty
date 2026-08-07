@@ -96,7 +96,14 @@ $${\color{#E8BFA1}DNI}\qquad
 
 
 <br><br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="400" height="400" alt="1000240670" src="https://github.com/user-attachments/assets/9b56e333-3c38-49a1-812c-a6bbaa445a12" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="400" height="400" alt="1000240670" src="https://github.com/user-attachments/assets/9b56e333-3c38-49a1-812c-a6bbaa445a12" />ㅤㅤㅤㅤ<img width="200" height="100" alt="1000240633" src="https://github.com/user-attachments/assets/cf1d2a22-96bd-4456-84ac-55ce7fdaaa18" />
+
+
+
+
+
+
+<br><br>
 ㅤㅤㅤㅤㅤㅤㅤ<img width="200" height="100" alt="1000240635" src="https://github.com/user-attachments/assets/076530e3-3f62-49a7-8344-b555f151f711" />
 
 
