@@ -25,42 +25,54 @@ $${\color{#6C9AB2}𓊆ྀི❤︎𓊇ྀི}$$
 
 <td width="45%" valign="top" align="left">
 <br>
-<span style="color:#6C9AB2;"><i>𝒴𝓊𝓂ℯ𝓈𝒽𝒾𝓅𝓅ℯ𝓇</i></span>　ㅤㅤㅤ
-<span style="color:#F6CFAE;"><i>𝓼𝒾𝓷𝓰𝓮𝓻</i></span>　ㅤㅤㅤ
-<span style="color:#89AFC0;"><i>𝓐𝓻𝓽𝒾𝓼𝓽</i></span>
+$${\color{#6C9AB2}\text{𝒴𝓊𝓂ℯ𝓈𝒽𝒾𝓅𝓅ℯ𝓇ㅤㅤㅤㅤㅤㅤㅤㅤ}}$$
+$${\color{#F6CFAE}\text{𝓼𝒾𝓷𝓰𝓮𝓻ㅤㅤㅤㅤㅤㅤㅤㅤ}}$$
+$${\color{#89AFC0}\text{𝓐𝓻𝓽𝒾𝓼𝓽ㅤㅤㅤㅤㅤㅤㅤㅤ}}$$
 
 <br><br>
 
-<span style="color:#F6CFAE;">🪡</span>　
-<span style="color:#6C9AB2;">beautiful</span>　
-ㅤㅤㅤㅤ<span style="color:#E8BFA1;">little</span>　
-ㅤㅤㅤㅤ<span style="color:#89AFC0;">**Inky**</span>　
-ㅤㅤㅤㅤ<span style="color:#F6CFAE;">Angel</span>
+$${\color{#F6CFAE}🪡}\qquad
+{\color{#6C9AB2}\text{beautiful}}\qquad
+{\color{#E8BFA1}\text{little}}\qquad
+{\color{#89AFC0}\textbf{Inky}}\qquad
+{\color{#F6CFAE}\text{Angel}}$$
 
 <br><br>
 
-<span style="color:#89AFC0;">🫧</span>　
-<span style="color:#F6CFAE;">**anger** issues</span>　
-<span style="color:#6C9AB2;"><u>Iwc</u></span>　
-<span style="color:#E8BFA1;">**꒰ঌ( ᴗ͈ˬᴗ͈)໒꒱**</span>
+$${\color{#89AFC0}🫧}\qquad
+{\color{#F6CFAE}\textbf{anger}\ \text{issues}}\qquad
+{\color{#6C9AB2}\underline{\text{Iwc}}}\qquad
+{\color{#E8BFA1}\textbf{꒰ঌ( ᴗ͈ˬᴗ͈)໒꒱}}$$
 
 <br><br>
 
-<span style="color:#6C9AB2;">〰️</span>　
-ㅤㅤㅤㅤ
-<span style="color:#F6CFAE;">[ATAbook](https://p1nkpo1son.atabook.org/)</span>　
-ㅤㅤㅤㅤ
-<span style="color:#89AFC0;">𝄞⨾𓍢ִ໋</span>
-  <<span style="color:#6C9AB2;"><i>fav</i></span>　<span style="color:#F6CFAE;">Chap :</span>ㅤ <span style="color:#89AFC0;"><b>Rise</b></span> ㅤㅤ<span style="color:#E8BFA1;">and</span>ㅤㅤ<span style="color:#6C9AB2;"><b>Fall</b></span>
+$${\color{#6C9AB2}〰️}\qquad
+{\color{#F6CFAE}\text{ATAbook}}\qquad
+{\color{#89AFC0}𝄞⨾𓍢ִ໋}\qquad
+{\color{#6C9AB2}\textit{fav}}\qquad
+{\color{#F6CFAE}\text{Chap :}}\qquad
+{\color{#89AFC0}\textbf{Rise}}\qquad
+{\color{#E8BFA1}\text{and}}\qquad
+{\color{#6C9AB2}\textbf{Fall}}$$
+
+[ATAbook](https://p1nkpo1son.atabook.org/)
 
 <br><br>
 
-<span style="color:#F6CFAE;"><i><b>**ships**</b> ⁞</i></span> ㅤ<span style="color:#6C9AB2;">angelic</span><span style="color:#E8BFA1;"><b>Demon</b></span>ㅤㅤ/ㅤ<span style="color:#89AFC0;">Samsie</span>ㅤ
+$${\color{#F6CFAE}\textbf{\textit{ships}}}\qquad
+{\color{#6C9AB2}\text{angelic}}\qquad
+{\color{#E8BFA1}\textbf{Demon}}\qquad/\qquad
+{\color{#89AFC0}\text{Samsie}}$$
 
 <br><br>
 
-ㅤㅤㅤ<span style="color:#E8BFA1;"><b>**DNI**</b></span>ㅤㅤ<span style="color:#6C9AB2;">If</span>ㅤㅤ<span style="color:#89AFC0;">Bendy</span>ㅤㅤ<span style="color:#F6CFAE;">X</span>ㅤ
-<span style="color:#6C9AB2;">sammy</span>ㅤㅤㅤㅤ<span style="color:#E8BFA1;">Basic</span> <span style="color:#F6CFAE;"><b>DNI</b></span>
+$${\color{#E8BFA1}\textbf{DNI}}\qquad
+{\color{#6C9AB2}\text{If}}\qquad
+{\color{#89AFC0}\text{Bendy}}\qquad
+{\color{#F6CFAE}\text{X}}\qquad
+{\color{#6C9AB2}\text{sammy}}\qquad
+{\color{#E8BFA1}\text{Basic}}\qquad
+{\color{#F6CFAE}\textbf{DNI}}$$
 
 
 <!-- RIGHT: SECOND IMAGE -->
