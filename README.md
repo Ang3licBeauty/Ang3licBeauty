@@ -1,34 +1,4 @@
 
-# ANG3LKISS.
-
-
-<div align="center">
-
-<!-- ========================================================= -->
-<!-- MAIN README CONTAINER                                     -->
-<!-- ========================================================= -->
-
-<table width="700">
-<tr>
-<td>
-
-<br>
-
-<!-- ========================================================= -->
-<!-- TOP SECTION                                               -->
-<!-- IMAGE LEFT / PROFILE TEXT RIGHT                          -->
-<!-- ========================================================= -->
-
-<table style="width:100px;">
-<tr>
-
-<!-- LEFT SIDE: LARGE TOP IMAGE -->
-
-<td width="50%" valign="top" align="left">
-
-<br>
-
-<img width="512" height="512" alt="1000240550" src="https://github.com/user-attachments/assets/30c0b24d-ea8f-4d88-8aa8-824099cd5786" />
 
 
 
@@ -39,24 +9,7 @@
 
 <br><br><br>
 
-<span style="color:#6C9AB2;"><sup>𓎟𓎟𓎟</sup></span>　<span style="color:#F6CFAE;"><b>𝓐𝓁i𝓬e</b></span>　ㅤㅤ<span style="color:#89AFC0;">𝐬𝓱𝑒 ‎ꫂ᭪݁</span> ㅤㅤ<span style="color:#E8BFA1;">𝓐𝓝𝓰ℯ𝓁</span>
 
-
-ㅤㅤㅤ<span style="color:#E8BFA1;"><u>𝟐𝟏</u></span>ㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐</span>
-
-
-ㅤㅤㅤ<span style="color:#89AFC0;">𓈒 ຼ ͜𓐇˚ִִ𓈒꒱꒱</span>ㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#F6CFAE;"><u>**𝓼𝒾𝓷𝓼𝓽𝓮𝓻**</u></span>
-
-<br>
-
-ㅤㅤㅤ<span style="color:#F6CFAE;">𓊆ྀི❤︎𓊇ྀི</span>ㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">ـــ</span> <span style="color:#89AFC0;">✚</span>ㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<span style="color:#6C9AB2;">⏔⏔⏔</span> <span style="color:#F6CFAE;">꒰ ᧔ෆ᧓ ꒱</span> <span style="color:#89AFC0;">⏔⏔⏔</span>
-ㅤㅤㅤㅤ<span style="color:#6C9AB2;">ــــــــــ</span><span style="color:#F6CFAE;">ﮩ٨</span>
-
-<br><br>
-
-<span style="color:#6C9AB2;">ㅤㅤ𓊆</span>ㅤㅤ<span style="color:#F6CFAE;">𝓢𝓱𝔂</span>ㅤ<span style="color:#89AFC0;">˚₊· ͟͟͞͞➳❥</span>ㅤㅤ<span style="color:#E8BFA1;">𝒟ℴ𝓋ℯ</span>  
 
 <br><br>
 </td>
@@ -76,7 +29,7 @@
 
 <td align="left">
 
-<img width="800" height="202" alt="1000240551" src="https://github.com/user-attachments/assets/90b8fc01-18d9-43a5-a7d0-0cb23645c6a2" />
+<img width="1000" height="202" alt="1000240551" src="https://github.com/user-attachments/assets/90b8fc01-18d9-43a5-a7d0-0cb23645c6a2" />
 
 
 
@@ -145,7 +98,7 @@
 
 <td width="55%" valign="top" align="center">
 
-<img width="650" height="700" alt="1000240546" src="https://github.com/user-attachments/assets/922780ce-cae1-4de1-a8ba-f768cdd67cf9" />
+<img width="650" height="900" alt="1000240546" src="https://github.com/user-attachments/assets/922780ce-cae1-4de1-a8ba-f768cdd67cf9" />
 
 
 
@@ -168,8 +121,8 @@
 <td align="center">
 
 𓆩♡𓆪　
-<a href="https://github.com/P1NKPO1SON">main acc</a>　
-<a href="#">extended</a>　
+       <a href="https://github.com/P1NKPO1SON">main acc</a>　
+       <a href="#">extended</a>　
 (｡•́︿•̀｡)
 
 </td>
