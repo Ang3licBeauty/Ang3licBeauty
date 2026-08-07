@@ -89,7 +89,20 @@ $${\color{#E8BFA1}DNI}\qquad
 </table>
 
 
-<img width="1000" height="800" alt="1000240544" src="https://github.com/user-attachments/assets/76c5cadf-5b18-4efc-b6e0-90ef8d2d32cc" />
+<br><br>
+ㅤㅤㅤㅤㅤㅤㅤ<img width="200" height="100" alt="1000240660" src="https://github.com/user-attachments/assets/ac6b4bf2-f526-4817-83de-bc3767b7403a" />ㅤㅤㅤㅤ<img width="200" height="100" alt="1000240636" src="https://github.com/user-attachments/assets/2685fd4d-79f6-49ea-a03c-e6c0358b233e" />ㅤㅤㅤㅤ<img width="200" height="100" alt="1000240641" src="https://github.com/user-attachments/assets/6831b7b1-830d-476d-a54f-8c42879a2275" />
+
+
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
 
 <img width="1000" height="400" alt="1000240609" src="https://github.com/user-attachments/assets/b3050b5f-c4d3-4583-9b89-d14cdc714fbd" />
 
