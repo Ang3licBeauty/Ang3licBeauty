@@ -90,7 +90,7 @@ $${\color{#E8BFA1}DNI}\qquad
 
 
 <br><br>
-ㅤㅤㅤㅤㅤㅤㅤ<img width="200" height="100" alt="1000240660" src="https://github.com/user-attachments/assets/ac6b4bf2-f526-4817-83de-bc3767b7403a" />ㅤㅤㅤㅤ<img width="200" height="100" alt="1000240636" src="https://github.com/user-attachments/assets/2685fd4d-79f6-49ea-a03c-e6c0358b233e" />ㅤㅤㅤㅤ<img width="200" height="100" alt="1000240641" src="https://github.com/user-attachments/assets/6831b7b1-830d-476d-a54f-8c42879a2275" />
+ㅤㅤㅤㅤㅤㅤㅤ<img width="200" height="100" alt="1000240660" src="https://github.com/user-attachments/assets/ac6b4bf2-f526-4817-83de-bc3767b7403a" />ㅤㅤㅤㅤ<img width="200" height="100" alt="1000240636" src="https://github.com/user-attachments/assets/2685fd4d-79f6-49ea-a03c-e6c0358b233e" />ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="200" height="100" alt="1000240641" src="https://github.com/user-attachments/assets/6831b7b1-830d-476d-a54f-8c42879a2275" />
 
 
 
