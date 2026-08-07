@@ -69,7 +69,7 @@ $${\color{#E8BFA1}\textbf{DNI}}\qquad
 {\color{#89AFC0}\text{Bendy}}\qquad
 {\color{#F6CFAE}\text{X}}\qquad
 {\color{#6C9AB2}\text{sammy}}\qquad
-{\color{#E8BFA1}\text{Basic}}\qquad {\color{#F6CFAE}\textbf{DNI}}$$
+{\color{#E8BFA1}\text{Basic}}\qquad
 
 
 <!-- RIGHT: SECOND IMAGE -->
