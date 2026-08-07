@@ -53,7 +53,7 @@ $${\color{#89AFC0}𝄞⨾𓍢ִ໋}\qquad
 {\color{#E8BFA1}and}\qquad
 {\color{#6C9AB2}Fall}$$
 
-[ATAbook](https://p1nkpo1son.atabook.org/)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ATAbook](https://p1nkpo1son.atabook.org/)
 
 <br><br>
 
@@ -64,12 +64,12 @@ $${\color{#F6CFAE}\textbf{\textit{ships}}}\qquad
 
 <br><br>
 
-$${\color{#E8BFA1}\textbf{DNI}}\qquad
-{\color{#6C9AB2}\text{If}}\qquad
-{\color{#89AFC0}\text{Bendy}}\qquad
-{\color{#F6CFAE}\text{X}}\qquad
-{\color{#6C9AB2}\text{sammy}}\qquad
-{\color{#E8BFA1}\text{Basic}}\qquad
+$${\color{#E8BFA1}DNI}\qquad
+{\color{#6C9AB2}If}\qquad
+{\color{#89AFC0}Bendy}\qquad
+{\color{#F6CFAE}X}\qquad
+{\color{#6C9AB2}sammy}\qquad
+{\color{#E8BFA1}Bordy}$$
 
 
 <!-- RIGHT: SECOND IMAGE -->
