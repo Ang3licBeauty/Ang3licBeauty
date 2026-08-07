@@ -112,10 +112,5 @@ $${\color{#E8BFA1}DNI}\qquad
 
 
 <br><br>
-
-
-<br><br>
-
-
 <img width="1000" height="400" alt="1000240609" src="https://github.com/user-attachments/assets/b3050b5f-c4d3-4583-9b89-d14cdc714fbd" />
 
